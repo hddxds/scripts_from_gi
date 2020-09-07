@@ -1,0 +1,33 @@
+# install dependencies, it installs mavros, ros-kinetic, gazebo7 and installs geographic lib models
+# modify the script if you have done some part
+1. chmod +x 1_ubuntu_sim_ros_gazebo.sh
+2. sh 1_ubuntu_sim_ros_gazebo.sh
+
+NOTE: remember to install ros-kinetic-gazebo-*, otherwise simulation won't be able to be connected to mavros!
+
+# git clone px4
+3. git clone px4/Firmware
+4. cd px4/Firmware
+
+
+# source px4 environment 
+5. source Tools/setup_gazebo.bash $(pwd) $(pwd)/build/px4_sitl_default
+   export ROS_PACKAGE_PATH=$ROS_PACKAGE_PATH:$(pwd)
+   export ROS_PACKAGE_PATH=$ROS_PACKAGE_PATH:$(pwd)/Tools/sitl_gazebo
+
+
+# roslaunch simulation in gazebo
+6. roslaunch px4 posix_sitl.launch 
+	     and
+   roslaunch mavros px4.launch fcu_url:="udp://:14540@127.0.0.1:14557"
+
+
+# add customized plugins such as cameras
+7. replace sitl_gazebo/models/iris with provided iris folder to enable stereo camera plugin
+   
+
+useful links:
+
+1. How to change Color types:
+http://answers.gazebosim.org/question/3470/quick-question-what-is-color-descption-and-format-in-sdf/
+

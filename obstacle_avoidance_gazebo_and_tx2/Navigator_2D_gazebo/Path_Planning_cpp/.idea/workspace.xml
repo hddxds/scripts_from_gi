@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Path_Planning" targetName="geometry" />
+      <config projectName="Path_Planning" targetName="rrt_star" />
+      <config projectName="Path_Planning" targetName="rrt_test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9060abf7-4c18-4084-bd83-81f3605cb5e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Navigator/helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigator_2D_tx2/RRT_star/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigator_2D_tx2/astar2d/astar2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navigator_2D_tx2/helper/node.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/tutorial_1/1_px4_mavros_offboard_controller/px4_mavros_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo/tutorial_1/1_px4_mavros_offboard_controller/px4_mavros_run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Navigator/DiscreteGridUtils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigator/DiscreteGridUtils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Navigator/Navigator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigator/Navigator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Navigator/SimController.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigator/SimController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Navigator/astar/astar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigator/astar/astar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Navigator/astar/astar_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigator/astar/astar_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Navigator/astar/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigator/astar/driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Navigator/path_optimization/bresenham3d.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigator/path_optimization/bresenham3d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Navigator/path_optimization/path_pruning.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Navigator/path_optimization/path_pruning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Obstacle_Map/cfg/CamToRobotCalibParams.cfgc" beforeDir="false" afterPath="$PROJECT_DIR$/../Obstacle_Map/cfg/CamToRobotCalibParams.cfgc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Obstacle_Map/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Obstacle_Map/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cv/src/Tracker.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/cv/src/Tracker.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/examples/EurocStereoVIO_ros.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../SLAM/ygz_slam_ros/examples/EurocStereoVIO_ros.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.71340334">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/rrt_star/src/rrt_star.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="693">
+                  <caret line="322" column="41" lean-forward="true" selection-start-line="322" selection-start-column="41" selection-end-line="322" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/matplotlib-cpp/matplotlibcpp.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1695">
+                  <caret line="567" column="31" selection-start-line="567" selection-start-column="18" selection-end-line="567" selection-end-column="31" />
+                  <folding>
+                    <element signature="e#19807#19825#0" expanded="true" />
+                    <element signature="e#22234#22252#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/geometry/include/cuboid.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="396">
+                  <caret line="22" selection-start-line="22" selection-end-line="22" />
+                  <folding>
+                    <element signature="e#74#90#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/rrt_test.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/geometry/src/cuboid.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1044">
+                  <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="32" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/helper/node.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="432">
+                  <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+                  <folding>
+                    <element signature="e#69#90#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/geometry/include/bresenham.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#87#106#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/geometry/src/bresenham.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2484">
+                  <caret line="138" column="34" selection-start-line="138" selection-start-column="34" selection-end-line="138" selection-end-column="34" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/rrt_star/include/rrt_star.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="432">
+                  <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#78#97#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rrt_star</find>
+      <find>gca</find>
+      <find>python_colormap_coolwarm</find>
+      <find>keywords</find>
+      <find>plot</find>
+      <find>obstacle_cuboid</find>
+      <find>Node_Collision_Check</find>
+      <find>collisi</find>
+      <find>in_cuboid</find>
+      <find>Vector3f</find>
+      <find>path</find>
+      <find>lineCollisionCheck</find>
+      <find>point</find>
+      <find>findSuitableParent</find>
+      <find>scatter</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cuboid.h" />
+        <option value="$PROJECT_DIR$/RTT_star/rtt_star.cpp" />
+        <option value="$PROJECT_DIR$/RRT_star/include/rrt_star.h" />
+        <option value="$PROJECT_DIR$/RRT_star/src/rrt_star.cpp" />
+        <option value="$PROJECT_DIR$/matplotlib-cpp/matplotlibcpp.h" />
+        <option value="$PROJECT_DIR$/geometry/include/bresenham3d.h" />
+        <option value="$PROJECT_DIR$/geometry/src/cuboid.cpp" />
+        <option value="$PROJECT_DIR$/geometry/include/cuboid.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/geometry/include/bresenham.h" />
+        <option value="$PROJECT_DIR$/geometry/src/bresenham.cpp" />
+        <option value="$PROJECT_DIR$/helper/node.h" />
+        <option value="$PROJECT_DIR$/rrt_star/include/rrt_star.h" />
+        <option value="$PROJECT_DIR$/rrt_test.cpp" />
+        <option value="$PROJECT_DIR$/rrt_star/src/rrt_star.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="352" />
+    <option name="y" value="104" />
+    <option name="width" value="1313" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Path_Planning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Path_Planning_cpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Path_Planning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Path_Planning_cpp" type="462c0819:PsiDirectoryNode" />
+              <item name="geometry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Path_Planning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Path_Planning_cpp" type="462c0819:PsiDirectoryNode" />
+              <item name="geometry" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Path_Planning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Path_Planning_cpp" type="462c0819:PsiDirectoryNode" />
+              <item name="geometry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Path_Planning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Path_Planning_cpp" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Path_Planning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Path_Planning_cpp" type="462c0819:PsiDirectoryNode" />
+              <item name="matplotlib-cpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Path_Planning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Path_Planning_cpp" type="462c0819:PsiDirectoryNode" />
+              <item name="rrt_star" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Path_Planning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Path_Planning_cpp" type="462c0819:PsiDirectoryNode" />
+              <item name="rrt_star" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Path_Planning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Path_Planning_cpp" type="462c0819:PsiDirectoryNode" />
+              <item name="rrt_star" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.geometry">
+    <configuration name="geometry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Path_Planning" TARGET_NAME="geometry" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rrt_star" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Path_Planning" TARGET_NAME="rrt_star" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rrt_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Path_Planning" TARGET_NAME="rrt_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Path_Planning" RUN_TARGET_NAME="rrt_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.geometry" />
+      <item itemvalue="Application.rrt_star" />
+      <item itemvalue="Application.rrt_test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9060abf7-4c18-4084-bd83-81f3605cb5e1" name="Default Changelist" comment="" />
+      <created>1559787462245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559787462245</updated>
+      <workItem from="1559787463342" duration="522000" />
+      <workItem from="1559790204536" duration="27331000" />
+      <workItem from="1559888459064" duration="10918000" />
+      <workItem from="1559900034540" duration="341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39112000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1050304" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31452456" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cuboid.cpp" />
+    <entry file="file://$PROJECT_DIR$/cuboid.h" />
+    <entry file="file:///usr/local/include/eigen3/Eigen/Core">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/include/eigen3/Eigen/src/Core/Matrix.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7174">
+          <caret line="449" column="54" selection-start-line="449" selection-start-column="54" selection-end-line="449" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clustering.cpp" />
+    <entry file="file://$PROJECT_DIR$/clustering.h" />
+    <entry file="file://$PROJECT_DIR$/RTT_star/rtt_star.cpp" />
+    <entry file="file://$PROJECT_DIR$/RRT_star/include/rrt_star.h" />
+    <entry file="file://$PROJECT_DIR$/RRT_star/src/rrt_star.cpp" />
+    <entry file="file://$PROJECT_DIR$/geometry/src/bresenham3d.cpp" />
+    <entry file="file://$PROJECT_DIR$/geometry/include/bresenham3d.h" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geometry/include/cuboid.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#74#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geometry/src/cuboid.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper/node.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#69#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geometry/include/bresenham.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#87#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geometry/src/bresenham.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="138" column="34" selection-start-line="138" selection-start-column="34" selection-end-line="138" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrt_star/include/rrt_star.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="e#78#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrt_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlib-cpp/matplotlibcpp.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="567" column="31" selection-start-line="567" selection-start-column="18" selection-end-line="567" selection-end-column="31" />
+          <folding>
+            <element signature="e#19807#19825#0" expanded="true" />
+            <element signature="e#22234#22252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrt_star/src/rrt_star.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="322" column="41" lean-forward="true" selection-start-line="322" selection-start-column="41" selection-end-line="322" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a72f11af-d2d4-4095-a88b-b02e7a5b6cf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/bin/dense_reconstruction" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/bin/dense_reconstruction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/bin/match_pointcloud_and_slam_pose" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/bin/match_pointcloud_and_slam_pose" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/bin/match_pointcloud_and_slam_pose2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/bin/match_pointcloud_and_slam_pose2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/calibration/mynteye_sim2.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/calibration/mynteye_sim2.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/do_reconstruction.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/do_reconstruction.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/include/pcl_helper.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/include/pcl_helper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/src/dense_reconstruction.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/src/dense_reconstruction.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/src/match_pointcloud_and_slam_pose.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/src/match_pointcloud_and_slam_pose.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/src/match_pointcloud_and_slam_pose2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Obstacle_Map/src/match_pointcloud_and_slam_pose2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map/src/stereo_dense_reconstruction/pcl_helper.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/.idea/stereo_dense_reconstruction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/bin/dense_reconstruction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/bin/match_pointcloud_and_slam_pose" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/bin/match_pointcloud_and_slam_pose2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/calibration/amrl_jackal_webcam_stereo.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/calibration/kitti_2011_09_26.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/calibration/mynteye.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/calibration/mynteye_q_only.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/calibration/mynteye_sim.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/calibration/mynteye_sim2.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cfg/CamToRobotCalibParams.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cfg/CamToRobotCalibParams.cfgc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cfg/cpp/Obstacle_Map/CamToRobotCalibParamsConfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cfg/cpp/stereo_dense_reconstruction/CamToRobotCalibParamsConfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/do_reconstruction.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/docs/CamToRobotCalibParamsConfig-usage.dox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/docs/CamToRobotCalibParamsConfig.dox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/docs/CamToRobotCalibParamsConfig.wikidoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/error_log_diff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/generate.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/include/popt_pp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/manifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/src/Obstacle_Map/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/src/Obstacle_Map/cfg/CamToRobotCalibParamsConfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/src/Obstacle_Map/cfg/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/src/dense_reconstruction.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/src/match_pointcloud_and_slam_pose.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/src/match_pointcloud_and_slam_pose2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/src/stereo_dense_reconstruction/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/src/stereo_dense_reconstruction/cfg/CamToRobotCalibParamsConfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Obstacle_Map2/src/stereo_dense_reconstruction/cfg/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modified_mavros/2019北京 - 室外mavros项目/快速替换mavros代码/替换文件/mavros" beforeDir="false" afterPath="$PROJECT_DIR$/../../../modified_mavros/2019北京 - 室外mavros项目/快速替换mavros代码/替换文件/mavros" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modified_mavros/materials/mavros/catkin_ws/src/mavros" beforeDir="false" afterPath="$PROJECT_DIR$/../../../modified_mavros/materials/mavros/catkin_ws/src/mavros" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Obstacle_Map/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Obstacle_Map/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Obstacle_Map/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Obstacle_Map/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Obstacle_Map/bin/dense_reconstruction" beforeDir="false" afterPath="$PROJECT_DIR$/../../Obstacle_Map/bin/dense_reconstruction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Obstacle_Map/bin/match_pointcloud_and_slam_pose" beforeDir="false" afterPath="$PROJECT_DIR$/../../Obstacle_Map/bin/match_pointcloud_and_slam_pose" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Obstacle_Map/calibration/mynteye_sim2.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Obstacle_Map/calibration/mynteye_sim2.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Obstacle_Map/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Obstacle_Map/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Obstacle_Map/lib/libpcl_helper.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../Obstacle_Map/lib/libpcl_helper.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Obstacle_Map/rgbd.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Obstacle_Map/src/match_pointcloud_and_slam_pose2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Obstacle_Map/src/rgbd_camera_to_pointcloud.cpp" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>leftdpf</find>
+      <find>out_img_size</find>
+      <find>convert</find>
+      <find>pc</find>
+      <find>StereoBM</find>
+      <find>MinDisparity</find>
+      <find>NumDisparities</find>
+      <find>pcl_pub</find>
+      <find>distanceMin</find>
+      <find>log index</find>
+      <find>log_index</find>
+      <find>dmap_pub</find>
+      <find>K1</find>
+      <find>D1</find>
+      <find>output_cloud_pub</find>
+      <find>img_left</find>
+      <find>displayImage</find>
+      <find>stereoRectify</find>
+      <find>stereorectify</find>
+      <find>tempR</find>
+      <find>stereorecti</find>
+      <find>min_x</find>
+      <find>pc_out_pointcloud2</find>
+      <find>sor</find>
+      <find>transformed_cloud</find>
+      <find>Cloud after filtering</find>
+      <find>filtering</find>
+      <find>/gi/simulation/left/image_raw</find>
+      <find>Cloud before filtering</find>
+      <find>transform</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/stereo_dense_reconstruction/pcl_helper.cpp" />
+        <option value="$PROJECT_DIR$/../../../vins/src/VINS-Mono/config/euroc/gi_sim.yaml" />
+        <option value="$PROJECT_DIR$/src/rgbd_camera_to_pointcloud.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/match_pointcloud_and_slam_pose2.cpp" />
+        <option value="$PROJECT_DIR$/calibration/mynteye_sim2.yml" />
+        <option value="$PROJECT_DIR$/calibration/mynteye.yml" />
+        <option value="$PROJECT_DIR$/src/match_pointcloud_and_slam_pose.cpp" />
+        <option value="$PROJECT_DIR$/calibration/mynteye2.yml" />
+        <option value="$PROJECT_DIR$/src/dense_reconstruction.cpp" />
+        <option value="$PROJECT_DIR$/config.yaml" />
+        <option value="$PROJECT_DIR$/include/pcl_helper.h" />
+        <option value="$PROJECT_DIR$/src/pcl_helper.cpp" />
+        <option value="$PROJECT_DIR$/Obstacle_Map/src/pcl_helper.cpp" />
+        <option value="$PROJECT_DIR$/Obstacle_Map/config.yaml" />
+        <option value="$PROJECT_DIR$/Obstacle_Map/src/match_pointcloud_and_slam_pose2.cpp" />
+        <option value="$PROJECT_DIR$/Obstacle_Map/include/pcl_helper.h" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="259" />
+    <option name="y" value="32" />
+    <option name="width" value="1316" />
+    <option name="height" value="1012" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Obstacle_Map_garden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Obstacle_Map_garden" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Obstacle_Map_garden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Obstacle_Map_garden" type="462c0819:PsiDirectoryNode" />
+              <item name="Obstacle_Map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Obstacle_Map_garden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Obstacle_Map_garden" type="462c0819:PsiDirectoryNode" />
+              <item name="Obstacle_Map" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Obstacle_Map_garden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Obstacle_Map_garden" type="462c0819:PsiDirectoryNode" />
+              <item name="Obstacle_Map" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../GAAS/Obstacle_Map" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a72f11af-d2d4-4095-a88b-b02e7a5b6cf6" name="Default Changelist" comment="" />
+      <created>1548472904078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548472904078</updated>
+      <workItem from="1548472905354" duration="403000" />
+      <workItem from="1555057942977" duration="2691000" />
+      <workItem from="1555061568087" duration="2084000" />
+      <workItem from="1555572197892" duration="9968000" />
+      <workItem from="1555585038825" duration="7145000" />
+      <workItem from="1555647011754" duration="3735000" />
+      <workItem from="1556089592416" duration="393000" />
+      <workItem from="1556091409745" duration="18289000" />
+      <workItem from="1556160292037" duration="7529000" />
+      <workItem from="1556174634886" duration="3659000" />
+      <workItem from="1556188810329" duration="2140000" />
+      <workItem from="1556241967447" duration="14618000" />
+      <workItem from="1556438959093" duration="424000" />
+      <workItem from="1556508495469" duration="41000" />
+      <workItem from="1556508884947" duration="6637000" />
+      <workItem from="1556594198620" duration="1488000" />
+      <workItem from="1556601222414" duration="845000" />
+      <workItem from="1556602806986" duration="6259000" />
+      <workItem from="1556615536953" duration="2676000" />
+      <workItem from="1556809655164" duration="45000" />
+      <workItem from="1557033250135" duration="44000" />
+      <workItem from="1557037569980" duration="1909000" />
+      <workItem from="1557049449549" duration="550000" />
+      <workItem from="1557125463770" duration="1562000" />
+      <workItem from="1557211584089" duration="659000" />
+      <workItem from="1557213072688" duration="8969000" />
+      <workItem from="1557291284783" duration="40000" />
+      <workItem from="1557308204267" duration="131000" />
+      <workItem from="1557308363379" duration="92000" />
+      <workItem from="1557720133414" duration="4465000" />
+      <workItem from="1557725242473" duration="1957000" />
+      <workItem from="1557727856143" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="111470000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1310116" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291536" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3291536" />
+      <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.09090909" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11774461" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291536" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.46402502" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/stereo_dense_reconstruction/pcl_helper.cpp" />
+    <entry file="file://$PROJECT_DIR$/../../../opencv_contrib/modules/ximgproc/samples/disparity_filtering.cpp" />
+    <entry file="file://$PROJECT_DIR$/../../../vins/src/VINS-Mono/config/euroc/gi_sim.yaml" />
+    <entry file="file://$PROJECT_DIR$/src/rgbd_camera_to_pointcloud.cpp" />
+    <entry file="file://$PROJECT_DIR$/rgbd.sh" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/src/match_pointcloud_and_slam_pose2.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/dense_reconstruction.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/match_pointcloud_and_slam_pose.cpp" />
+    <entry file="file://$PROJECT_DIR$/calibration/mynteye_sim2.yml" />
+    <entry file="file://$PROJECT_DIR$/calibration/mynteye2.yml" />
+    <entry file="file://$PROJECT_DIR$/calibration/mynteye.yml" />
+    <entry file="file://$PROJECT_DIR$/config.yaml" />
+    <entry file="file://$PROJECT_DIR$/include/pcl_helper.h" />
+    <entry file="file://$PROJECT_DIR$/src/pcl_helper.cpp" />
+    <entry file="file://$PROJECT_DIR$/Obstacle_Map/config.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Obstacle_Map/src/match_pointcloud_and_slam_pose2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Obstacle_Map/src/match_pointcloud_and_slam_pose.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="93" column="47" selection-start-line="93" selection-start-column="47" selection-end-line="93" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Obstacle_Map/src/dense_reconstruction.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Obstacle_Map/include/pcl_helper.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="67" column="96" selection-start-line="67" selection-start-column="96" selection-end-line="67" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Obstacle_Map/src/pcl_helper.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="130" column="71" selection-start-line="130" selection-start-column="48" selection-end-line="130" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
